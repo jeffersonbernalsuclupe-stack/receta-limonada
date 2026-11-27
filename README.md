@@ -10,3 +10,5 @@ Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 - No echar hielo en el jarro: se diluye.
 - Remover antes de servir.
 Publicada en GitHub en la sesion 4.
+
+Etiquetada como v1.0.0 en la sesion 6.
